@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\mult{$1}{\cdot $2}
+]]></content>
+	<tabTrigger>mul</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

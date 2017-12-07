@@ -1,0 +1,18 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"LaTeXing",
+		"Material Theme",
+		"Package Control",
+		"Python 3",
+		"Python Improved",
+		"R-Box",
+		"SublimeREPL"
+	]
+}

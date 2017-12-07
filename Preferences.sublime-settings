@@ -1,0 +1,17 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"material_theme_accent_lime": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_bullet_tree_indicator": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_small_statusbar": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
+	"material_theme_tabs_separator": true,
+	"theme": "Material-Theme.sublime-theme"
+}

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\Rightarrow 
+]]></content>
+	<tabTrigger>ra</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

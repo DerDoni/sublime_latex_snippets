@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\tag{$1}
+]]></content>
+	<tabTrigger>tag</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

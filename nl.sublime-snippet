@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+\\\
+
+]]></content>
+	<tabTrigger>nl</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>
