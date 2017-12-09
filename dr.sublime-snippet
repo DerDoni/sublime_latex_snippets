@@ -1,9 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\begin{tikzpicture}
-	\draw
-	$1;
-\end{tikzpicture} 
+\draw $1;
 ]]></content>
 	<tabTrigger>dr</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
