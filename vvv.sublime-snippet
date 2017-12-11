@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\vec{$1}
+\overrigtharrow{$1}
 ]]></content>
-	<tabTrigger>vv</tabTrigger>
+	<tabTrigger>vvv</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>

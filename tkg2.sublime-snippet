@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+\begin{tikzpicture}
+\tkzInit[xmax=$1,ymax=$2,xmin=$3,ymin=$4]
+  	\tkzAxeXY
+	\tkzGrid
+	$5
+\end{tikzpicture} 
+]]></content>
+	<tabTrigger>tkg</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

@@ -1,7 +1,10 @@
 <snippet>
 	<content><![CDATA[
-\vec{$1}
+\begin{pmatrix}
+    $1 \\\
+    $2
+\end{pmatrix}
 ]]></content>
-	<tabTrigger>vv</tabTrigger>
+	<tabTrigger>cv</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>
