@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\overline{$1}
+]]></content>
+	<tabTrigger>ol</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>
