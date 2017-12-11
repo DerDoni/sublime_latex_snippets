@@ -2,7 +2,8 @@
 	<content><![CDATA[
 \begin{pmatrix}
     $1 \\\
-    $2
+    $2 \\\
+    $3
 \end{pmatrix}
 ]]></content>
 	<tabTrigger>cv</tabTrigger>
