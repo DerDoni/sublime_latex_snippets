@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\frac{$1}{$2}
+\infty 
 ]]></content>
-	<tabTrigger>frac</tabTrigger>
+	<tabTrigger>inf</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\cdot 
+\mathbb{$1}
 ]]></content>
-	<tabTrigger>cd</tabTrigger>
+	<tabTrigger>bb</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>

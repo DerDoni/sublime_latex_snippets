@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\cdot 
+\pm 
 ]]></content>
-	<tabTrigger>cd</tabTrigger>
+	<tabTrigger>mp</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>

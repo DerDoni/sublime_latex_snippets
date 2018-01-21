@@ -1,7 +1,11 @@
 <snippet>
 	<content><![CDATA[
-\cdot 
+\newglossaryentry{$1}
+{
+  name=$1,
+  description={$2}
+}
 ]]></content>
-	<tabTrigger>cd</tabTrigger>
+	<tabTrigger>gl</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>

@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\cdot 
+\vec{a}, \vec{b} \$und\$ \vec{c}
 ]]></content>
-	<tabTrigger>cd</tabTrigger>
+	<tabTrigger>abc</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>

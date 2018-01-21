@@ -1,7 +1,10 @@
 <snippet>
 	<content><![CDATA[
-\cdot 
+\begin{pmatrix}
+    $1 \\\
+    $2
+\end{pmatrix}
 ]]></content>
-	<tabTrigger>cd</tabTrigger>
+	<tabTrigger>cvv</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>

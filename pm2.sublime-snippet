@@ -1,7 +1,10 @@
 <snippet>
 	<content><![CDATA[
-\cdot 
+\begin{pmatrix}
+     $1 & $2 \\\
+     $3 & $4
+\end{pmatrix}
 ]]></content>
-	<tabTrigger>cd</tabTrigger>
+	<tabTrigger>pm2</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>

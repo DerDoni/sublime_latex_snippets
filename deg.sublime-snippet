@@ -1,7 +1,7 @@
 <snippet>
 	<content><![CDATA[
-\cdot 
+\degree
 ]]></content>
-	<tabTrigger>cd</tabTrigger>
+	<tabTrigger>deg</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
 </snippet>
