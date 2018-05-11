@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\\{$1\\}
+]]></content>
+	<tabTrigger>cb</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

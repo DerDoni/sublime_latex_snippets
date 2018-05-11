@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\[
+
 \begin{gmatrix}[p]
 	$1 & $2 & $3 & \BAR & $4  \\\ 
 	$5 & $6 & $7 &  \BAR & $8 \\\ 
@@ -8,8 +8,8 @@
 	\rowops
 	$13
 	\end{gmatrix}
-	\Rightarrow
-\]
+	\leadsto
+
 ]]></content>
 	<tabTrigger>gm3</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
