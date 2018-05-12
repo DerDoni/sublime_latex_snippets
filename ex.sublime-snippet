@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\begin{example}
+$0
+\end{example}
+]]></content>
+	<tabTrigger>ex</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

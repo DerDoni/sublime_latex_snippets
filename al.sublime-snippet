@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+\begin{equation*}
+	\begin{aligned}
+	$1
+	\end{aligned}
+\end{equation*}
+]]></content>
+	<tabTrigger>al</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>
