@@ -2,7 +2,10 @@
 	<content><![CDATA[
 \begin{equation*}
 	\begin{aligned}
-	$1
+		$0
+	\end{aligned}
+	\begin{aligned}
+		$1
 	\end{aligned}
 \end{equation*}
 ]]></content>

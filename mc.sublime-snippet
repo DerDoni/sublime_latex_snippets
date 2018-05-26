@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\mathcolor{$1}{$2} 
+]]></content>
+	<tabTrigger>mc</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

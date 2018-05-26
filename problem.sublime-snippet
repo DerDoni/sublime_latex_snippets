@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\begin{problem}
+	$0
+\end{problem}
+]]></content>
+	<tabTrigger>p</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>
