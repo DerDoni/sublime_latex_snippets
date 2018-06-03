@@ -1,5 +1,0 @@
-[
-    
-    {"keys": ["shift+keypad_minus"], "command": "insert_snippet", "args": {"contents": "\\pm"}},
-	{"keys": ["super+k", "super + l"], "command": "insert_snippet", "args": {"contents": "\\pm"}},
-]
