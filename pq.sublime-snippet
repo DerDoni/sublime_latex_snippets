@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+  x_{1,2} &= - \frac{$1}{2} \pm \sqrt{\Big(\frac{$1}{2}\Big)^2 -$2}
+]]></content>
+	<tabTrigger>pq</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

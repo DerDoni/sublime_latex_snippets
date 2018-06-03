@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\arrowdown{$1}{$2}
+]]></content>
+	<tabTrigger>ad</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

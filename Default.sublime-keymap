@@ -1,0 +1,9 @@
+[{ "keys": ["alt+keypad1"], "command": "select_by_index", "args": { "index": 0 } },
+{ "keys": ["alt+keypad2"], "command": "select_by_index", "args": { "index": 1 } },
+{ "keys": ["alt+keypad3"], "command": "select_by_index", "args": { "index": 2 } },
+{ "keys": ["alt+keypad4"], "command": "select_by_index", "args": { "index": 3 } },
+{ "keys": ["alt+keypad5"], "command": "select_by_index", "args": { "index": 4 } },
+{ "keys": ["alt+keypad6"], "command": "select_by_index", "args": { "index": 5 } },
+{ "keys": ["alt+keypad7"], "command": "select_by_index", "args": { "index": 6 } },
+{ "keys": ["alt+keypad8"], "command": "select_by_index", "args": { "index": 7 } },
+{ "keys": ["alt+keypad9"], "command": "select_by_index", "args": { "index": 8 }}]
