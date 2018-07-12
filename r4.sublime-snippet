@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\includegraphics[height=\baselineskip]{Pictures/icons_rampe_04.png}
+]]></content>
+	<tabTrigger>r4</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>

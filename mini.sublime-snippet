@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+\begin{minipage}{0.45\textwidth}
+	$1
+\end{minipage}
+\hfill
+\begin{minipage}{0.45\textwidth}
+	$2 
+\end{minipage}%
+
+]]></content>
+	<tabTrigger>mini</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>
