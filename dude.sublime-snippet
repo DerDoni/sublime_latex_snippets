@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-\marginpar{\includegraphics[width=\linewidth]{Pictures/dude.png}}
+\marginpar{\includegraphics[width=0.8\linewidth]{Pictures/dude.png}}
 ]]></content>
 	<tabTrigger>dd</tabTrigger>
 	<scope>text.tex.latex.ing</scope>
