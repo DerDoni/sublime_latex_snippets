@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+\protect \includegraphics[height=\baselineskip]{QR/$1} 
+]]></content>
+	<tabTrigger>qr</tabTrigger>
+	<scope>text.tex.latex.ing</scope>
+</snippet>
